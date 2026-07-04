@@ -1,17 +1,16 @@
-# Sasta Bazar - Multi-Vendor E-commerce Platform
+# Sasta Bazar - E-commerce Platform
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Sasta Bazar** is a modern, feature-rich, and scalable multi-vendor e-commerce platform. It provides a seamless shopping experience for customers and a powerful dashboard for sellers to manage their products and orders. The entire backend is powered by Supabase, offering a secure and robust foundation.
 
 ![Sasta Bazar Screenshot](https://place-hold.it/1200x600?text=Project+Screenshot+Here)
-*(Replace the placeholder above with a screenshot of your application)*
 
 **Live Demo:** [https://your-project-name.vercel.app](https://your-project-name.vercel.app)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fsasta-bazar)
 
-*(Remember to replace `your-username/sasta-bazar` in the button link with your actual repository URL!)*
-
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ✨ Key Features
 
@@ -41,15 +40,15 @@ Sasta Bazar is designed with a comprehensive set of features to support a thrivi
 - **Media Storage:** Utilizes Supabase Storage for efficiently handling product images, videos, and review photos.
 - **Automated Triggers:** Database functions automatically update product ratings, review counts, and stock levels in real-time.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
 - **Backend & Database:** **Supabase** (PostgreSQL, Auth, Storage, Edge Functions)
 - **Styling:** **Tailwind CSS**
-- **Frontend Framework:** *(Please specify your frontend framework, e.g., Next.js, React, Vue.js)*
+- **Frontend Framework:** *(Next.js, React, Vue.js)*
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Getting Started
 
@@ -95,7 +94,7 @@ You will need to have a Supabase project set up.
 
 Open http://localhost:3000 (or your framework's default port) in your browser to see the application.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🗄️ Database Schema
 
@@ -117,43 +116,16 @@ The database is designed to be relational and secure, with Row Level Security (R
 - `product-images`: Public bucket to store all product images and videos.
 - `review-photos`: Public bucket for photos uploaded with product reviews.
 
----
-
-## 🌐 Deployment
-
-This project is optimized for one-click deployment on Vercel.
-
-1.  **Fork the repository** to your GitHub account.
-2.  Click the **Deploy with Vercel** button above.
-3.  Follow the on-screen instructions, making sure to add your Supabase environment variables when prompted:
-    - `NEXT_PUBLIC_SUPABASE_URL`
-    - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
-4.  Vercel will automatically build and deploy your project.
-
-Your application will be live at a public URL provided by Vercel, which you can find on your project's dashboard.
-
----
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📧 Contact
 
-Your Name - @your_twitter - email@example.com
+Namra Dabhi - https://www.linkedin.com/in/namra-dabhi-7a97b0381/
 
-Project Link: https://github.com/your-username/sasta-bazar
+Project Link: https://github.com/Namra0001/sasta-bazar
