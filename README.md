@@ -4,11 +4,9 @@
 
 **Sasta Bazar** is a modern, feature-rich, and scalable multi-vendor e-commerce platform. It provides a seamless shopping experience for customers and a powerful dashboard for sellers to manage their products and orders. The entire backend is powered by Supabase, offering a secure and robust foundation.
 
-![Sasta Bazar Screenshot](https://place-hold.it/1200x600?text=Project+Screenshot+Here)
+<img width="1137" height="726" alt="image" src="https://github.com/user-attachments/assets/584bc96d-9d85-486b-b4c2-b09c46ae8495" />
 
-**Live Demo:** [https://your-project-name.vercel.app](https://your-project-name.vercel.app)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fsasta-bazar)
+**Live Demo** on https://e-commerce-kappa-bay.vercel.app/shop
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -127,5 +125,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 
 Namra Dabhi - https://www.linkedin.com/in/namra-dabhi-7a97b0381/
-
-Project Link: https://github.com/Namra0001/sasta-bazar
