@@ -1,0 +1,10 @@
+project_id = "rjhupxnzsoqewddrzemi"
+
+# OTP-style emails (use {{ .Token }} — same HTML can be pasted in Dashboard → Authentication → Email Templates)
+[auth.email.template.confirmation]
+subject = "Your Sasta Bazar verification code"
+content_path = "./templates/confirmation.html"
+
+[auth.email.template.recovery]
+subject = "Your Sasta Bazar password reset code"
+content_path = "./templates/recovery.html"
